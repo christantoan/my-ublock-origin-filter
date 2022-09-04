@@ -1,0 +1,55 @@
+! 10/30/2019 http://dl.pcgamestorrents.com
+dl.pcgamestorrents.com###oYp
+
+! 12/30/2019 http://dl.pcgamestorrents.com
+dl.pcgamestorrents.com###pbr
+
+! 2021-09-03 https://money.kompas.com
+kompas.com##.wBox--sonora.wBox
+kompas.com##.eee.social--inline > .clearfix.social--article.social
+kompas.com##.eee.social--inline > .social--text
+kompas.com##.ivs-wrap
+kompas.com###next_previous_inject
+kompas.com##.clearfix.info-banner
+kompas.com##.clearfix.recommendation--small.recommendation
+||widget.kompas.com/kompasiana_widget_read/$subdocument
+kompas.com##.comment__promo
+||widget.kompas.com/kompasiana_widget_read/$subdocument
+kompas.com##.nwsLetter-article
+kompas.com##.clearfix.paging__footnote.read__paging__footnote
+kompas.com##.clearfix.social__block
+kompas.com##.clearfix.mt2.ga--harian-kompas.kompas
+kompas.com##.col-bs10-3 > .title--center.clearfix.title
+kompas.com##.video-inject
+kompas.com##.clearfix.ga--vik-gate.col-offset-fluid.row
+kompas.com##.ivs-wrap-wp
+kompas.com##.clearfix.mt2.ga--opinion.opinion
+kompas.com##.wBox--vaksin.wBox
+kompas.com##div.clearfix.mt2.ga--related.related__inline
+
+! 2021-09-03 https://www.kompas.com
+www.kompas.com##.clearfix.gramedia__gate
+
+! 2021-09-06 https://www.kompas.com
+www.kompas.com##.clearfix.ga--photo-pilihan.lensa--photo--wp
+www.kompas.com##.js-giant-wp-sticky-parent.clearfix.col-offset-fluid.row > .col-bs10-7 > .clearfix.title
+
+! 2021-09-11 https://kompas.com
+kompas.com##.wArticle-box
+
+! 2021-09-14 https://kompas.com
+kompas.com##.ultah26
+
+! 2021-10-15 https://kompas.com
+kompas.com##.video-box-wrap
+
+! 2021-10-24 https://10minutemail.com
+10minutemail.com##.explanation
+
+! 2022-01-24 https://www.kompas.com
+www.kompas.com##.videoKGSlider
+www.kompas.com##.clearfix.ga--god-network.col-offset-fluid.row
+
+! 2022-07-22 https://www.kaskus.co.id
+www.kaskus.co.id##.middle.no-border.postlist-trh
+
