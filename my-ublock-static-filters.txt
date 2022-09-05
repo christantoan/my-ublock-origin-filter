@@ -42,6 +42,9 @@ kompas.com##div.clearfix.mt1 > .clearfix.mt2.row
 kompas.com##.videoKG-widget
 kompas.com##.kcm-track
 ||widget.kompas.com/pialadunia/mobile$subdocument
+kompas.com##.rVideo-middle
+kompas.com##.mb2.mt2.on-read.row-10.lihatJuga
+kompas.com##.paging__footnote.read__paging__footnote
 
 ! https://10minutemail.com
 10minutemail.com##.explanation
