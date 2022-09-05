@@ -12,7 +12,6 @@ kompas.com##.clearfix.info-banner
 kompas.com##.clearfix.recommendation--small.recommendation
 ||widget.kompas.com/kompasiana_widget_read/$subdocument
 kompas.com##.comment__promo
-||widget.kompas.com/kompasiana_widget_read/$subdocument
 kompas.com##.nwsLetter-article
 kompas.com##.clearfix.paging__footnote.read__paging__footnote
 kompas.com##.clearfix.social__block
