@@ -37,9 +37,12 @@ kompas.com##div.ads-partner-wrap
 kompas.com##.kcm__articleList
 kompas.com##.next-topic.paging__footnote.read__paging__footnote
 kompas.com##.kid-wrap
-www.kompas.com##.clearfix.kcm__top.kcm
-www.kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
-www.kompas.com##div.clearfix.mt1 > .clearfix.mt2.row
+kompas.com##.clearfix.kcm__top.kcm
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
+kompas.com##div.clearfix.mt1 > .clearfix.mt2.row
+kompas.com##.videoKG-widget
+kompas.com##.kcm-track
+||widget.kompas.com/pialadunia/mobile$subdocument
 
 ! https://10minutemail.com
 10minutemail.com##.explanation
