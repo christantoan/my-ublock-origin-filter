@@ -131,3 +131,9 @@ www.cnnindonesia.com##.sb2.box-ads--container.box-ads
 www.cnnindonesia.com##.sb3.box-ads--container.box-ads
 www.cnnindonesia.com##.detail_text > .inview_ap_0.autovideocnn.embed
 
+! https://www.cnbcindonesia.com
+www.cnbcindonesia.com##.detail_text > .clearfix.banner.list__item
+www.cnbcindonesia.com##.megabillboard
+www.cnbcindonesia.com##.bb.box-ads
+www.cnbcindonesia.com##.mr1.mr
+www.cnbcindonesia.com##.mr2.mr
