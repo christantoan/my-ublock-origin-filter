@@ -137,3 +137,6 @@ www.cnbcindonesia.com##.megabillboard
 www.cnbcindonesia.com##.bb.box-ads
 www.cnbcindonesia.com##.mr1.mr
 www.cnbcindonesia.com##.mr2.mr
+
+! https://www.lightnovelpub.com
+www.lightnovelpub.com##.YuTlZMsg
