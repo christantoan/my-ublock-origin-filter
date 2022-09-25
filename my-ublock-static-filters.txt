@@ -1,8 +1,8 @@
-! http://dl.pcgamestorrents.com
+! dl.pcgamestorrents.com
 dl.pcgamestorrents.com###oYp
 dl.pcgamestorrents.com###pbr
 
-! https://*.kompas.com
+! *.kompas.com
 kompas.com##.wBox--sonora.wBox
 kompas.com##.eee.social--inline > .clearfix.social--article.social
 kompas.com##.eee.social--inline > .social--text
@@ -46,28 +46,28 @@ kompas.com##.rVideo-middle
 kompas.com##.mb2.mt2.on-read.row-10.lihatJuga
 kompas.com##.paging__footnote.read__paging__footnote
 
-! https://10minutemail.com
+! 10minutemail.com
 10minutemail.com##.explanation
 
-! https://*.kaskus.co.id
+! *.kaskus.co.id
 www.kaskus.co.id##.middle.no-border.postlist-trh
 ||tv.kaskus.co.id/api/embed/widget/$subdocument
 
-! https://e-hentai.org
+! e-hentai.org
 ||ehgt.org/t/y/19/19c874a026a5e048fd61d52efbb107259a8203b0.png$image
 e-hentai.org###spa
 
-! https://stabbingwithasyringe.home.blog
+! stabbingwithasyringe.home.blog
 stabbingwithasyringe.home.blog###wpadminbar
 
-! https://lightnovelstranslations.com
+! lightnovelstranslations.com
 lightnovelstranslations.com##.mtsnb-clearfix.mtsnb-container
 lightnovelstranslations.com###mtsnb-23196
 
-! https://jigglypuffsdiary.com
+! jigglypuffsdiary.com
 jigglypuffsdiary.com##.hide-on-button
 
-! https://www.novelupdates.com
+! www.novelupdates.com
 www.novelupdates.com###div-gpt-ad-1487337800668-0
 www.novelupdates.com###div-pg-ad-1459971394-1 > .ad_336
 www.novelupdates.com##div.ad_336 > .ad_336
@@ -77,26 +77,26 @@ www.novelupdates.com###respond\ review > div > .ad_336
 www.novelupdates.com##.l-content > div > div.ad_336
 www.novelupdates.com###div-gpt-ad-noid_blank > .ad_336
 
-! https://www.readlightnovel.org
+! www.readlightnovel.org
 www.readlightnovel.org##.loaded.trinity-player.trinity-iframe
 www.readlightnovel.org##.trinity-player-iframe-wrapper
 www.readlightnovel.org##.desc > small.ads-title > span
 www.readlightnovel.org##p > .ads-title > span
 
-! https://hentainexus.com
+! hentainexus.com
 ||hentainexus.com/unit/mobban/*.gif$image
 hentainexus.com##.unit-mobban
 ||hentainexus.com/unit/mobblk/*.gif$image
 hentainexus.com##.unit-mobblk
 
-! https://detik.com
+! detik.com
 detik.com##.itpp_sb.smartbanner_new
 detik.com##.itpp_sb.mobile_smartbanner
 
-! https://forum.xda-developers.com
+! forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
 
-! https://www.xda-developers.com
+! www.xda-developers.com
 www.xda-developers.com###adsninja-ad-zone-XDA-Reg-Org
 www.xda-developers.com###adsninja-ad-zone-div-gpt-ad-1619031514790-BMP
 www.xda-developers.com###adsninja-ad-zone-div-gpt-ad-1539626823080-0
@@ -108,21 +108,21 @@ www.xda-developers.com##.ad-zone-header-header.ad-zone
 www.xda-developers.com##div[class^="ads"]
 www.xda-developers.com###adsninja-ad-zone-div-gpt-ad-1619031514790-0
 
-! https://joglosemarnews.com
+! joglosemarnews.com
 joglosemarnews.com##.td-header-header.td-header-row
 joglosemarnews.com##.td_block_template_1.tdi_2.td-rec-hide-on-tp.td-rec-hide-on-m.td-a-rec-id-content_inline.td-a-rec
 joglosemarnews.com##.td_block_template_1.tdi_2.td-rec-hide-on-m.td-a-rec-id-content_inline.td-a-rec
 
-! https://www.jawapos.com
+! www.jawapos.com
 www.jawapos.com###ivsplayer01-container
 
-! https://www.pixiv.net
+! www.pixiv.net
 www.pixiv.net##.t_overray_tablet.overlay.ad-frame-container
 
-! https://arstechnica.com
+! arstechnica.com
 arstechnica.com##aside.ad_wrapper:nth-of-type(2)
 
-! https://www.cnnindonesia.com
+! www.cnnindonesia.com
 www.cnnindonesia.com##.mb0.megabillboard.box-ads
 www.cnnindonesia.com##.bb.box-ads--container.box-ads
 www.cnnindonesia.com##.paradetail
@@ -131,14 +131,14 @@ www.cnnindonesia.com##.sb2.box-ads--container.box-ads
 www.cnnindonesia.com##.sb3.box-ads--container.box-ads
 www.cnnindonesia.com##.detail_text > .inview_ap_0.autovideocnn.embed
 
-! https://www.cnbcindonesia.com
+! www.cnbcindonesia.com
 www.cnbcindonesia.com##.detail_text > .clearfix.banner.list__item
 www.cnbcindonesia.com##.megabillboard
 www.cnbcindonesia.com##.bb.box-ads
 www.cnbcindonesia.com##.mr1.mr
 www.cnbcindonesia.com##.mr2.mr
 
-! https://www.lightnovelpub.com
+! www.lightnovelpub.com
 www.lightnovelpub.com##.YuTlZMsg
 
 ! *.wordpress.com
