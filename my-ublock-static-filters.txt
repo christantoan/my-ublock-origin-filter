@@ -140,3 +140,6 @@ www.cnbcindonesia.com##.mr2.mr
 
 ! https://www.lightnovelpub.com
 www.lightnovelpub.com##.YuTlZMsg
+
+! *.wordpress.com
+wordpress.com##.noskim.marketing-bar
