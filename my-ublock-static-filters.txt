@@ -143,3 +143,7 @@ www.lightnovelpub.com##.YuTlZMsg
 
 ! *.wordpress.com
 wordpress.com##.noskim.marketing-bar
+
+! cyborg-tl.com
+cyborg-tl.com###btm_baner
+cyborg-tl.com###hpk
