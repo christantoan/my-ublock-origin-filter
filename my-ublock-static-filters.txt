@@ -151,3 +151,7 @@ cyborg-tl.com###hpk
 ! lightnovelbastion.com
 lightnovelbastion.com##.adtester-container
 
+! www.codecguide.com
+www.codecguide.com###aswift_1_host
+www.codecguide.com###aswift_0_host
+
