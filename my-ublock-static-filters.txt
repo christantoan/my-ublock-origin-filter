@@ -148,3 +148,6 @@ wordpress.com##.noskim.marketing-bar
 cyborg-tl.com###btm_baner
 cyborg-tl.com###hpk
 
+! lightnovelbastion.com
+lightnovelbastion.com##.adtester-container
+
