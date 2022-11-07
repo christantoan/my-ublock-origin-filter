@@ -45,6 +45,10 @@ kompas.com##.kcm-track
 kompas.com##.rVideo-middle
 kompas.com##.mb2.mt2.on-read.row-10.lihatJuga
 kompas.com##.paging__footnote.read__paging__footnote
+www.kompas.com##.wBelt-nakes
+www.kompas.com##.highlight__stories
+www.kompas.com###content_news > .banner-300
+www.kompas.com##.d-to-top.row > .banner-300
 
 ! 10minutemail.com
 10minutemail.com##.explanation
