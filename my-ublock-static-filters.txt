@@ -159,3 +159,7 @@ lightnovelbastion.com##.adtester-container
 www.codecguide.com###aswift_1_host
 www.codecguide.com###aswift_0_host
 
+! stabbingwithasyringe.home.blog
+stabbingwithasyringe.home.blog##.noskim.marketing-bar
+stabbingwithasyringe.home.blog##.actnbr-has-follow.actnbr-pub-rivington
+
