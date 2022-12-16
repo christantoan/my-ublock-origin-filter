@@ -163,3 +163,6 @@ www.codecguide.com###aswift_0_host
 stabbingwithasyringe.home.blog##.noskim.marketing-bar
 stabbingwithasyringe.home.blog##.actnbr-has-follow.actnbr-pub-rivington
 
+! www.wuxiaworld.eu
+www.wuxiaworld.eu##.mantine-83tz5n
+
