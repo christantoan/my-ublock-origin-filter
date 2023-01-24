@@ -74,13 +74,9 @@ jigglypuffsdiary.com##.hide-on-button
 
 ! www.novelupdates.com
 www.novelupdates.com###div-gpt-ad-1487337800668-0
-www.novelupdates.com###div-pg-ad-1459971394-1 > .ad_336
-www.novelupdates.com##div.ad_336 > .ad_336
 www.novelupdates.com###div-gpt-ad-1487336813946-0
 www.novelupdates.com###div-gpt-ad-1487338252283-0
-www.novelupdates.com###respond\ review > div > .ad_336
-www.novelupdates.com##.l-content > div > div.ad_336
-www.novelupdates.com###div-gpt-ad-noid_blank > .ad_336
+www.novelupdates.com##.ad_336
 
 ! www.readlightnovel.org
 www.readlightnovel.org##.loaded.trinity-player.trinity-iframe
