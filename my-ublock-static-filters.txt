@@ -163,3 +163,8 @@ stabbingwithasyringe.home.blog##.actnbr-has-follow.actnbr-pub-rivington
 ! www.wuxiaworld.eu
 www.wuxiaworld.eu##.mantine-83tz5n
 
+! tempo.co
+tempo.co##.full.banner300
+tempo.co##ivs-player
+tempo.co##.parallax-box
+tempo.co###ivs-player-001
