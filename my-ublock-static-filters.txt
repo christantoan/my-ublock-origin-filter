@@ -168,3 +168,7 @@ tempo.co##.full.banner300
 tempo.co##ivs-player
 tempo.co##.parallax-box
 tempo.co###ivs-player-001
+
+! codecguide.com
+codecguide.com###aswift_0_host
+www.codecguide.com##.tdcontent > .adsbygoogle-noablate.adsbygoogle
