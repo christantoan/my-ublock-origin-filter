@@ -50,6 +50,10 @@ kompas.com##.highlight__stories
 kompas.com###content_news > .banner-300
 kompas.com##.d-to-top.row > .banner-300
 kompas.com##div.gate-kgplus
+kompas.com##.kgnw-modal-ads
+kompas.com##.kgnw-inline.kgnw-sidebar.kgnw-ready.--v2.kgnw-main
+www.kgnow.com##.kcm__articleList
+www.kgnow.com##div.clearfix.kcm__rectangle.kcm
 
 ! 10minutemail.com
 10minutemail.com##.explanation
