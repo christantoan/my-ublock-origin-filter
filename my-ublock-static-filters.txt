@@ -54,6 +54,9 @@ kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-inline.kgnw-sidebar.kgnw-ready.--v2.kgnw-main
 www.kgnow.com##.kcm__articleList
 www.kgnow.com##div.clearfix.kcm__rectangle.kcm
+www.benzinga.com##.bzEdge_edge-v3__PypGN.banner-wrapper.ileCKq.sc-ldPsuV
+kompas.com##.kgnw-middle-ready.kgnw-middle
+kompas.com##.kompasidRec
 
 ! 10minutemail.com
 10minutemail.com##.explanation
